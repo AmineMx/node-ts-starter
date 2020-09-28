@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "cSpell.enabled": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": false
+}
